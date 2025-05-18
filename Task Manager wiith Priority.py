@@ -93,7 +93,7 @@ while True:
                 print(f"{i}. Title: {task['title']} - Status: {task['status']}")
         
     elif option == '6':
-        print('Exiting the system... 👋')
+        print('Exiting the system')
         print('Thank you for using our Task Manager!')
         break
         
